@@ -42,4 +42,3 @@ The system leverages artificial intelligence to provide objective and data-drive
 
 ## 🎓 Academic Context
 **Graduation Project – Arab Open University (Saudi Arabia)**
-
